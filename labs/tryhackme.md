@@ -7,7 +7,6 @@ In this lab, I acted as a Tier 1 SOC Analyst to investigate a security incident 
 
 ## 🛠️ Analyst Toolkit
 * **Platform:** TryHackMe
-* **Tools Used:** []
 * **Category:** Blue Teaming / Incident Response
 
 ##  Investigate an alert on EDR
